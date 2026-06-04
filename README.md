@@ -90,14 +90,9 @@ The detection system identifies:
 - **Jetson Nano**: 12 FPS
 
 ## Future Improvements
-- [ ] Custom trained helmet-specific model
 - [ ] Multi-person tracking
 - [ ] Alert system for non-compliance
-- [ ] Statistics and reporting
-- [ ] Mobile deployment (TensorFlow Lite)
+- [ ] Statistics and reporting)
 
-## License
-MIT License
 
-## Author
-Rochelle M Quadros
+
