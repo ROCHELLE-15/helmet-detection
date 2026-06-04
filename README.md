@@ -89,6 +89,8 @@ The detection system identifies:
 - **CPU** (Intel i7): 8 FPS
 - **Jetson Nano**: 12 FPS
 
+![Output Results](Helmet-detection output.jpg)
+
 ## Future Improvements
 - [ ] Multi-person tracking
 - [ ] Alert system for non-compliance
